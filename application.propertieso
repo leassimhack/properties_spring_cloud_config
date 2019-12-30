@@ -1,0 +1,5 @@
+global-datasource.url=jdbc:postgresql://localhost:5432/store_application
+global-datasource.username=admin
+global-datasource.password=Admin2016
+global-eureka.server=http://localhost:8761/eureka
+global-config.server=http://localhost:8888
